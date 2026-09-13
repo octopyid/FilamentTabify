@@ -219,7 +219,7 @@ Please see [releases](https://github.com/OctopyID/FilamentTabify/releases) for m
 
 ## Security Vulnerabilities
 
-Please review [our security policy](SECURITY.md) for more details. If you discover a security vulnerability within this package, please send an e-mail to [security@octopy.dev](mailto:security@octopy.dev). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within this package, please send an e-mail to [security@octopy.dev](mailto:security@octopy.dev). All security vulnerabilities will be promptly addressed. Please review [our security policy](SECURITY.md) for more details.
 
 ## Credits
 
