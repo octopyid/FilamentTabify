@@ -1,18 +1,37 @@
-# Package
-/yarn.lock export-ignore
-/package.json export-ignore
-/composer.lock export-ignore
+# Auto-detect text files and perform LF normalization
+* text=auto eol=lf
 
-# Tests
-/tests export-ignore
-/phpunit.xml export-ignore
+# Explicitly set text files
+*.php text eol=lf
+*.blade.php text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.xml text eol=lf
+*.dist text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
 
-# Config
-/.nvmrc export-ignore
-/.yarnrc.yml export-ignore
+# Explicitly set binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg text
+
+# Export Ignore (ignored in composer distribution archives)
+/.github export-ignore
+/.gitattributes export-ignore
 /.gitignore export-ignore
 /.editorconfig export-ignore
-/.gitattributes export-ignore
-
-# Github
-/.github export-ignore
+/.idea export-ignore
+/.nvmrc export-ignore
+/.yarnrc.yml export-ignore
+/package.json export-ignore
+/yarn.lock export-ignore
+/composer.lock export-ignore
+/phpunit.xml export-ignore
+/phpunit.xml.dist export-ignore
+/.phpunit.cache export-ignore
+/pint.json export-ignore
+/tests export-ignore
