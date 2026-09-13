@@ -1,5 +1,5 @@
 <p align="center" class="filament-hidden">
-    <a href="https://github.com/octopyid/FilamentTabify/actions/workflows/run-tests.yml"><img src="https://img.shields.io/github/actions/workflow/status/octopyid/FilamentTabify/run-tests.yml?branch=main&label=tests&style=for-the-badge" alt="Tests"></a>
+    <a href="https://github.com/octopyid/filament-tabify/actions/workflows/run-tests.yml"><img src="https://img.shields.io/github/actions/workflow/status/octopyid/filament-tabify/run-tests.yml?branch=main&label=tests&style=for-the-badge" alt="Tests"></a>
     <img src="https://img.shields.io/packagist/v/octopyid/filament-tabify.svg?style=for-the-badge" alt="Version">
     <img src="https://img.shields.io/packagist/dt/octopyid/filament-tabify.svg?style=for-the-badge&color=F28D1A" alt="Downloads">
     <img src="https://img.shields.io/packagist/l/octopyid/filament-tabify.svg?style=for-the-badge" alt="License">
@@ -215,7 +215,7 @@ composer test
 
 ## Changelog
 
-Please see [releases](https://github.com/OctopyID/FilamentTabify/releases) for more information on what has changed recently.
+Please see [releases](https://github.com/octopyid/filament-tabify/releases) for more information on what has changed recently.
 
 ## Security Vulnerabilities
 
@@ -224,7 +224,7 @@ If you discover a security vulnerability within this package, please send an e-m
 ## Credits
 
 - [Supian M](https://github.com/SupianIDz)
-- [All Contributors](https://github.com/OctopyID/FilamentTabify/contributors)
+- [All Contributors](https://github.com/octopyid/filament-tabify/contributors)
 
 ## License
 
